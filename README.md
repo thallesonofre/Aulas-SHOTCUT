@@ -1,4 +1,4 @@
 # Aulas SHOTCUT
- Materias das Aulas de SHOTCUT
+ Material das Aulas de SHOTCUT
 
  Repositório das aulas.
