@@ -1,4 +1,2 @@
 # Aulas SHOTCUT
- Material das Aulas de SHOTCUT
-
- Repositório das aulas.
+ Material da **Aula de ShotCut** Disponível gratuitamento no *Canal do Youtube* **Sem Enroscos**
